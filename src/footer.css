@@ -1,0 +1,28 @@
+.footer-container{
+    height: 40vh;
+    width: auto;
+    background-color: rgb(21, 20, 20);
+}
+.footer-container h1{
+    background:none;
+    color: white;
+    position: relative;
+    text-decoration: underline;
+    text-align: center;
+    top: 10%;
+    font-family: sans-serif;
+}
+.footer-container h3{
+    color: white;
+    position: relative;
+    top: 10%;
+    font-family: sans-serif;
+    text-align: center;
+}
+.footer-container p{
+    color: white;
+    position: relative;
+    top: 15%;
+    font-family: sans-serif;
+    text-align: center;
+}
